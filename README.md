@@ -11,7 +11,7 @@ We are the archive of fandom.
 ## Project
 The website is mostly static HTML pages and images. The images are scanned by volunteers or sent in by contributors. The HTML pages are generated from metadata files by a set of scripts. The scripts are written in REXX, a powerful scripting language similar to Javascript (although predating the web by a decade). 
 
-The purpose of this project is to update the infrastructure. Using Javascript and NPM, we will use standard open source software modules such as template engines to replace custom code. The new metadata files will be in JSON format. We will use unit tests to ensure correctness and, where appropriate, backwards compatibility with the legacy REXX scripts. Further down the road, but very high in priority, will be providing human-friendly permalinks and robot-friendly web APIs. 
+The purpose of this project is to update the infrastructure. The new scripts will be in Python. We will use standard open source software modules such as template engines to replace custom code. The new metadata files will be in JSON format. We will use unit tests to ensure correctness. Further down the road, but very high in priority, will be providing human-friendly permalinks and robot-friendly web APIs. 
 
 ## Join Us
 The FANAC Fan History Project is an all-volunteer operation. If you'd like to work on one of the most interesting websites on the internet, there is plenty to do. Please get in touch with us via GitHub or at [fanac@fanac.org](mailto:fanac@fanac.org). 
